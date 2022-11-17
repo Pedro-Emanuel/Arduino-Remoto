@@ -1,2 +1,2 @@
 # Arduino Remoto
-Uma aplicação para controlar o computador via arduino. Fim.
+Uma aplicação para controlar o computador via arduino.
